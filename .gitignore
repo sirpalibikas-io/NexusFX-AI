@@ -1,18 +1,18 @@
-# Virtual Environment
+# Secrets
+.env
+
+# Virtual environments
 .venv/
 venv/
 env/
 ENV/
 
-# Secrets & Environment Variables
-.env
-
-# Python Cache
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
 
-# OS & IDE Files
+# OS and IDE files
 .DS_Store
 .vscode/
 .idea/
